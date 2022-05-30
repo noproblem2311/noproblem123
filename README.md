@@ -52,7 +52,7 @@
 <!-- https://simpleicons.org/ -->
 👉 Programming languages
 <p align="left">
-  <span><img src="https://vi.wikipedia.org/wiki/HTML#/media/T%E1%BA%ADp_tin:HTML5_logo_resized.svg" alt="Html logo" title="HTML" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=#E34F26" alt="Html logo" title="HTML" height="25" /></span>
 &nbsp;
   <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
