@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noproblem2311" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/noproblem2311" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
-- ✍ I'm working in: [FPT Software Da Nang](https://www.fpt-software.com/our-campus/danang/) (FSDN).
 - 💻 I'm a self taught Full-Stack Developer.
 - 🌱 I’m currently learning **Django RestAPI.**
 ## Who am I?
